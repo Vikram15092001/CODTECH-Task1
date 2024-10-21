@@ -22,4 +22,7 @@ Feedback is provided for each question.
 End of Quiz:
 
 
+![Screenshot 2024-10-21 163113](https://github.com/user-attachments/assets/f7f6cfd0-1dcf-451b-a380-aa2116a2394e)
+
+
 
